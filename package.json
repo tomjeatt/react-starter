@@ -10,8 +10,7 @@
     "test": "jest",
     "lint": "eslint . --max-warnings=0 --ext .ts,.tsx",
     "prettier": "prettier . --write",
-    "tsc": "tsc",
-    "precommit": "lint-staged && tsc"
+    "precommit": "lint-staged"
   },
   "husky": {
     "hooks": {
