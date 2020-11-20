@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Application renders renders 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ FmhUY"
+  >
+    <h1>
+      Parcel, React, TypesScript, Styled Components
+    </h1>
+  </div>
+</DocumentFragment>
+`;
