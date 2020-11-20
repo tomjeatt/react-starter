@@ -8,6 +8,7 @@
     ],
     "jsx": "react",
     "sourceMap": true,
+    "skipLibCheck": true,
     "strict": true,
     "moduleResolution": "node",
     "baseUrl": "./",
